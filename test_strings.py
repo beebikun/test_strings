@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import timeit
 from UserString import MutableString
 from array import array

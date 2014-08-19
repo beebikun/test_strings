@@ -41,4 +41,4 @@ method2 : 305.552482843<br>
 method3 : 82.9090621471<br>
 <br>
 <br>
-And i cannot testing method4 - 7 there
+And i could not test method4-7 there
